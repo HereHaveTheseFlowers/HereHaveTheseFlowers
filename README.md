@@ -31,8 +31,6 @@ console.log(Me.info);
 <div align=center >
 
 <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HereHaveTheseFlowers&amp;langs_count=8&amp;count_private=true&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;">
- 
-<img src="https://camo.githubusercontent.com/89e5f589cc8b439751f6950e4ec1caa04e3766a40f59179f8c6806aa7ea0713d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d68657265686176657468657365666c6f776572732673686f775f69636f6e733d74727565267468656d653d6461726b2662675f636f6c6f723d30443131313726686964655f626f726465723d7472756526686964655f7469746c653d74727565" alt="My GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=herehavetheseflowers&amp;show_icons=true&amp;theme=dark&amp;bg_color=0D1117&amp;hide_border=true&amp;hide_title=true" style="max-width: 100%;">
   
 ## Projects
   
